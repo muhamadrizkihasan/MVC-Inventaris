@@ -1,1 +1,1 @@
-# MVC-Peminjaman
+# Sebuah studi kasus CRUD sederhana menggunakan metode MVC
